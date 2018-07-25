@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="CANON"
+"Manufacturer"="CANON"
+"Logo"="C:\\Windows\\System32\\canon.bmp"
+"SupportURL"="http://www.canon.com.vn/home"

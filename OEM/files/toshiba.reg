@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="TOSHIBA"
+"Manufacturer"="TOSHIBA"
+"Logo"="C:\\Windows\\System32\\toshiba.bmp"
+"SupportURL"="https://www.toshiba.com.vn/"

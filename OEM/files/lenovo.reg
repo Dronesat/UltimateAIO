@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="LENOVO"
+"Manufacturer"="LENOVO"
+"Logo"="C:\\Windows\\System32\\lenovo.bmp"
+"SupportURL"="http://www.lenovo.com/vn/vn/"

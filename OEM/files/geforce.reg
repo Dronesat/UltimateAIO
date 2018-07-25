@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="NVIDIA GEFORCE"
+"Manufacturer"="NVIDIA GEFORCE"
+"Logo"="C:\\Windows\\System32\\geforce.bmp"
+"SupportURL"="http://www.nvidia.com/content/global/global.php"

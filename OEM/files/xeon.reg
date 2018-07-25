@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="Intel Xeon"
+"Manufacturer"="INTEL"
+"Logo"="C:\\Windows\\System32\\xeon.bmp"
+"SupportURL"="http://www.intel.vn/content/www/vn/vi/processors/xeon/xeon-processor-e7-family.html"

@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="AsRock"
+"Manufacturer"="ArSock"
+"Logo"="C:\\Windows\\System32\\asrock.bmp"
+"SupportURL"="http://www.asrock.com/index.asp"

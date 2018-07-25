@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="MSI"
+"Manufacturer"="MSI GAMING"
+"Logo"="C:\\Windows\\System32\\msi_gaming.bmp"
+"SupportURL"="https://www.msi.com/index.php"

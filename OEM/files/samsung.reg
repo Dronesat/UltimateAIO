@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="SAM SUNG"
+"Manufacturer"="SAM SUNG"
+"Logo"="C:\\Windows\\System32\\samsung.bmp"
+"SupportURL"="http://www.samsung.com/vn/home/"

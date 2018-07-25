@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="COMPAQ"
+"Manufacturer"="COMPAQ"
+"Logo"="C:\\Windows\\System32\\compaq.bmp"
+"SupportURL"="http://www.compaq.com/cpq-country/overview-full.html"

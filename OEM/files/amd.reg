@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="AMD"
+"Manufacturer"="AMD"
+"Logo"="C:\\Windows\\System32\\amd.bmp"
+"SupportURL"="http://www.amd.com/en-us"

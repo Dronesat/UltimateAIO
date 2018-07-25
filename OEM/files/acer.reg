@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="ACER"
+"Manufacturer"="ACER"
+"Logo"="C:\\Windows\\System32\\acer.bmp"
+"SupportURL"="http://www.acer.com/ac/vi/VN/content/home"

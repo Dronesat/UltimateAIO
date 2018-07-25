@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="Intel Core i7"
+"Manufacturer"="INTEL"
+"Logo"="C:\\Windows\\System32\\i7.bmp"
+"SupportURL"="http://www.intel.vn/content/www/vn/vi/processors/core/core-i7-processor.html/"

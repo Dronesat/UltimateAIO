@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="HP"
+"Manufacturer"="HP"
+"Logo"="C:\\Windows\\System32\\hp.bmp"
+"SupportURL"="http://www8.hp.com/vn/en/home.html"

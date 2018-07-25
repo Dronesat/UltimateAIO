@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Model"="SAM SUNG"
+"Manufacturer"="SONY"
+"Logo"="C:\\Windows\\System32\\sony.bmp"
+"SupportURL"="http://www.sony.com.vn/"
